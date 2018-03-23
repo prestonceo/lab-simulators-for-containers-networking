@@ -25,7 +25,7 @@ you can use dCloud to launch lab scenarios pertaining to Cisco specific solution
 
 Has many resources for getting started with network programming, such as network programming with python, Contiv Sandbox for container networking. There’s also some great reference for getting started with YANG, SDN and more.
 
-OpenShift playground powered by katacoda
+[OpenShift playground powered by katacoda](https://learn.openshift.com/playgrounds/)
 
 A playground for becoming familiar with open shift and containers.
 
@@ -35,7 +35,7 @@ Microsoft Virtual Academy
 
 Many courses for programming, cloud solutions, windows server, windows 10 and many other Microsoft services.
 
-Coursera
+[Coursera](https://coursera.com)
 
 Many courses on data science, machine learning, programming and more, you can earn a certification in these courses or audit them and take them for free.
 
