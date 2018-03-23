@@ -5,7 +5,7 @@ Cloud Lab Simulators for containers and networking.
 
 This is a directory for free lab simulator resources for cloud training and software engineering. Training resources online can be expensive and the best training is hands on experience, these free labs from awesome companies and developers provide a rich experience of learning and have helped me develop the hands on experience I have.
 
-[Codelabs by google](https://codelabs.com)
+[Codelabs by google](https://codelabs.developer.google.com)
 
 Code labs by google has a very large selection of coding labs, from cloud to android and big data. There’s labs for many different conceptual use case scenarios.
 
@@ -13,7 +13,7 @@ Code labs by google has a very large selection of coding labs, from cloud to and
 
 Katacoda is very unique with tutorials for docker, Kubernetes and many more container based solutions.
 
-hands on labs by Microsoft
+[hands on labs by Microsoft](https://microsoft.com/handsonlabs)
 
 Has a really good portfolio of learning about the Azure platform, getting started with windows server, storage, and many more things related to IT and cloud technologies.
 
@@ -21,7 +21,7 @@ dCloud by Cisco
 
 you can use dCloud to launch lab scenarios pertaining to Cisco specific solutions for cloud services and networking.
 
-Cisco Devnet
+[Cisco Devnet](https://developer.cisco.com)
 
 Has many resources for getting started with network programming, such as network programming with python, Contiv Sandbox for container networking. There’s also some great reference for getting started with YANG, SDN and more.
 
