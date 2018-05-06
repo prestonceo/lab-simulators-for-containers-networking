@@ -7,7 +7,11 @@ This is a directory for free lab simulator resources for cloud training and soft
 
 [Codelabs by google](https://codelabs.developer.google.com)
 
-Code labs by google has a very large selection of coding labs, from cloud to android and big data. There’s labs for many different conceptual use case scenarios.
+[getting started with cloud shell & gcloud](https://codelabs.developers.google.com/codelabs/cloud-shell/index.html?index=..%2F..%2Findex#0)
+
+[Networking 102](https://codelabs.developers.google.com/codelabs/cloud-networking-102/index.html?index=..%2F..%2Findex#0)
+
+[building a slack bot with node.js on kubernetes](https://codelabs.developers.google.com/codelabs/cloud-slack-bot/index.html?index=..%2F..%2Findex#0)
 
 [katacoda by Ben hall](https://katacoda.com)
 
