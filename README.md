@@ -1,5 +1,5 @@
 # lab-simulators-for-containers-networking
-Free lab simulators for containers and networking 
+
 
 Cloud Lab Simulators for containers and networking.
 
@@ -41,9 +41,12 @@ Many courses for programming, cloud solutions, windows server, windows 10 and ma
 
 [Coursera](https://coursera.com)
 
-Many courses on data science, machine learning, programming and more, you can earn a certification in these courses or audit them and take them for free.
+[Architecting with Google Cloud Platform](https://www.coursera.org/specializations/gcp-architecture?action=enroll)
 
+[Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning)
+
+[Python for Everybody](https://www.coursera.org/specializations/python)
 
 RedHat for developers
 
-Download RedHat and use for free with a developer account.
+[Download RedHat and use for free with a developer account.](https://developers.redhat.com/)
