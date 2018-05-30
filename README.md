@@ -3,7 +3,7 @@
 
 Cloud Lab Simulators for containers and networking.
 
-This is a directory for free lab simulator resources for cloud training and software engineering. Training resources online can be expensive and the best training is hands on experience, these free labs from awesome companies and developers provide a rich experience of learning and have helped me develop the hands on experience I have.
+This is a directory for free lab simulator resources for container networking, kubernetes, open shift, network automation. Training resources online can be expensive and the best training is hands on experience, these free labs from awesome companies and developers provide a rich experience of learning and have helped me develop the hands on experience I have.
 
 [Codelabs by google](https://codelabs.developer.google.com)
 
