@@ -1,7 +1,7 @@
 # lab-simulators-for-containers-networking
 
 
-Cloud Lab Simulators for containers and networking.
+ Lab Simulators for Containers and Networking.
 
 This is a directory for free lab simulator resources for container networking, kubernetes, open shift, network automation. Training resources online can be expensive and the best training is hands on experience, these free labs from awesome companies and developers provide a rich experience of learning and have helped me develop the hands on experience I have.
 
@@ -33,11 +33,6 @@ Has many resources for getting started with network programming, such as network
 
 A playground for becoming familiar with open shift and containers.
 
-If your looking for free training resources to accompany the free labs you can visit these resources to help you get fast tracked with cloud technologies and software development.
-
-Microsoft Virtual Academy
-
-Many courses for programming, cloud solutions, windows server, windows 10 and many other Microsoft services.
 
 [Coursera](https://coursera.com)
 
