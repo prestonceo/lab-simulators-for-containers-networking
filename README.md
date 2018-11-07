@@ -10,8 +10,6 @@ Here's a list of sandbox environments for development using containers and how t
 
 [Codelabs by google](https://codelabs.developer.google.com)
 
-[getting started with cloud shell & gcloud](https://codelabs.developers.google.com/codelabs/cloud-shell/index.html?index=..%2F..%2Findex#0)
-
 [Cisco Devnet](https://developer.cisco.com)
 
 Has many resources for getting started with network programming, such as network programming with python, Contiv Sandbox for container networking. There’s also some great reference for getting started with YANG, SDN and more.
